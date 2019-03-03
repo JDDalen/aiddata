@@ -1,0 +1,30 @@
+{
+  "nodes": [
+{"id":"Norway","value":295017276,"value2":32.47},
+{"id":"Brazil","value":196091682,"value2":14},
+{"id":"Thailand","value":1552004,"value2":1.25},
+{"id":"India","value":53709655,"value2":7.33},
+{"id":"Chile","value":383157,"value2":0.62},
+{"id":"Colombia","value":17622109,"value2":4.2},
+{"id":"South Africa","value":25658669,"value2":5.07}
+
+
+
+
+
+     ],
+     
+     
+     
+  "links": [
+{"source":"Norway","target":"Brazil"},
+{"source":"Norway","target":"Thailand"},
+{"source":"Norway","target":"India"},
+{"source":"Norway","target":"Chile"},
+{"source":"Norway","target":"Colombia"},
+{"source":"Norway","target":"South Africa"}
+
+  ]
+}
+
+
