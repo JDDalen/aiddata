@@ -6,7 +6,7 @@
 {"id":"India"},
 {"id":"Chile"},
 {"id":"Colombia"},
-{"id":"South Africa"},
+{"id":"South Africa"}
 
 
 
@@ -20,7 +20,7 @@
 {"source":"Norway","target":"India","value":53709655},
 {"source":"Norway","target":"Chile","value":383157},
 {"source":"Norway","target":"Colombia","value":17622109},
-{"source":"Norway","target":"South Africa","value":25658669},
+{"source":"Norway","target":"South Africa","value":25658669}
 
   ]
 }
